@@ -8,8 +8,12 @@ His two original schemes :
 * [iTerm2 Color](https://github.com/csutter/chester-iterm2-colors)
 
 
-I created a slightly modified set for iTerm colors, the initial selection colors didn't quite work for me. You can download the modified version from this repo, [][chester-dark.itermcolors]
+I created a slightly modified set for iTerm colors, the initial selection colors didn't quite work for me. You can download the modified version from this repo, [chester-dark.itermcolors](chester-dark.itermcolors)
 
-I've also created a [palette for Mac OS X][mac-palette/readme.md] which you can download and use.
+I've also created a [palette for Mac OS X](mac-palette/readme.md) which you can download and use.
 
+Textmate Theme: [Chester.tmTheme](Chester.tmTheme)
+
+Visual Studio Code: [theme-chester](theme-chester/) - copy directory to
+`~/.vscode/extensions`
 
