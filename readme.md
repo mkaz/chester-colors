@@ -17,3 +17,4 @@ Textmate Theme: [Chester.tmTheme](Chester.tmTheme)
 Visual Studio Code: [theme-chester](theme-chester/) - copy directory to
 `~/.vscode/extensions`
 
+If you just want to see the colors, view the [color scheme samples here](https://rawgit.com/mkaz/chester-colors/master/samples.html).
