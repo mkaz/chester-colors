@@ -1,0 +1,22 @@
+{
+    "name": "theme-chester",
+    "displayName": "Chester",
+    "description": "Chester dark color theme",
+    "version": "0.0.1",
+    "publisher": "mkaz",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chester",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chester.tmTheme"
+            }
+        ]
+    }
+}
