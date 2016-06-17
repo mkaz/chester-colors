@@ -3,7 +3,7 @@
     "displayName": "Chester",
     "description": "Chester dark color theme",
     "version": "0.0.1",
-    "publisher": "mkaz",
+    "publisher": "marcuskaz",
     "engines": {
         "vscode": "^1.0.0"
     },
