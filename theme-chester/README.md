@@ -11,5 +11,5 @@ The theme is based off the work done by Chris Sutter, specifically his [chester-
 
 Here's a screen shot of it in action:
 
-<img src="screenshot.png" width="957" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/mkaz/chester-colors/master/theme-chester/screenshot.png" width="957" alt="Screenshot">
 
