@@ -2,7 +2,7 @@
     "name": "theme-chester",
     "displayName": "Chester",
     "description": "Chester dark color theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "marcuskaz",
     "engines": {
         "vscode": "^1.0.0"
@@ -18,5 +18,10 @@
                 "path": "./themes/Chester.tmTheme"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mkaz/chester-colors.git"
+    },
+    "homepage": "https://github.com/mkaz/chester-colors/tree/master/theme-chester"
 }
