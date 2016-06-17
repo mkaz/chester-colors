@@ -2,7 +2,7 @@
     "name": "theme-chester",
     "displayName": "Chester",
     "description": "Chester dark color theme",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "marcuskaz",
     "engines": {
         "vscode": "^1.0.0"
