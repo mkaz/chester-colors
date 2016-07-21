@@ -1,0 +1,18 @@
+{
+  "name": "hyperterm-chester",
+  "version": "0.1.0",
+  "description": "Chester HyperTerm theme",
+  "license": "MIT",
+  "repository": "git://github.com/mkaz/chester-colors",
+  "author": {
+    "name": "Marcus Kazmierczak",
+    "email": "marcus@mkaz.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
