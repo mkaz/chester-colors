@@ -43,8 +43,11 @@ exports.decorateConfig = config => {
         ],
         css: `
             ${config.css || ''}
-            .tab_active:before {
-                border-color: rgba(207, 106, 77, 0.3);
+            .tab_tab {
+                background-color: #3B444F;
+            }
+            .tab_active {
+                background-color: #1D508D;
             }
         `
     });
