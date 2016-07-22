@@ -17,4 +17,6 @@ Textmate Theme: [Chester.tmTheme](Chester.tmTheme)
 Visual Studio Code: [theme-chester](theme-chester/) - copy directory to
 `~/.vscode/extensions`
 
+HyperTerm: [hyperterm-chester](hyperterm-chester/) - install using `hyperterm-chester` plugin
+
 If you just want to see the colors, view the [color scheme samples here](https://rawgit.com/mkaz/chester-colors/master/samples.html).
